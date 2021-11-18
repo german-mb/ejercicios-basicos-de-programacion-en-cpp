@@ -1,1 +1,2 @@
-# ejercicios-basicos-c++
+# [Ejercicios básicos de programación en C++](https://github.com/gemboedu/ejercicios-basicos-c-pp)
+**Ejercicios básicos de programación en C++** es una colección de ejercicios básicos para aprender o mejorar las habilidades de programación.
