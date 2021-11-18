@@ -1,1 +1,1 @@
-# ejercicios-basicos-c-
+# ejercicios-basicos-c++
